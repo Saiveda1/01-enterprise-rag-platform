@@ -21,11 +21,9 @@ fully seeded, so `make all` reproduces the numbers below bit-for-bit.
 > Full index build + eval runs in **~125 s** on 4 CPUs, fully offline. Generation streams at
 > **~144k chunks/s** (5.8 M tokens/s) at bounded memory.
 
-## Project Document
+## Project Brief
 
-- Prepared for **Sai Veda**
-- Publishing account: **Nikeshk834**
-- Full handoff note: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
+- Visual PDF brief: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
